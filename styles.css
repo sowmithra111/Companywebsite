@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    border-color:rgb(223, 236, 34);
+    width: 90%;
+    margin:auto;
+    margin-top: 10%;
+    padding: 10px;
+  }
+  
+  th, td {
+    border: 1px solid rgb(232, 236, 232);
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color:white;
+    font-size:xx-large;
+  }
+  body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min: height 100vh;
+    background-image:url("background.jpg") ;
+    background-color:linear gradient(rgba(rgb(197, 193, 193)),rgba(rgb(164, 156, 156)));
+    background-size: 100%;
+  }tbody{
+    color:white;
+    font-size:xx-large;
+  }
